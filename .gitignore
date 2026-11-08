@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+log.cfg
+log4j2.cfg
+log4j2.xml
+hs_err_pid*
+
+# Minecraft instance
+crash-reports/
+distlibraries/
+options.txt
+realms_persistence.json
+
+# Cache
+.cache/
+.mixin.out/
+downloads/
+local/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
